@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="origin"
+           fetch="https://github.com" />
+  <default revision="master"
+           remote="origin"
+           sync-j="4" />
+  <project path="bzip2 " name="ShiftMediaProject/bzip2 "/>
+  <project path="enca" name="ShiftMediaProject/enca"/>
+  <project path="expat" name="ShiftMediaProject/expat"/>
+  <project path="fdk-aac" name="ShiftMediaProject/fdk-aac"/>
+  <project path="FFmpeg" name="ShiftMediaProject/FFmpeg"/>
+  <project path="FFVS-Project-Generator" name="ShiftMediaProject/FFVS-Project-Generator"/>
+  <project path="fontconfig" name="ShiftMediaProject/fontconfig"/>
+  <project path="freetype2" name="ShiftMediaProject/freetype2"/>
+  <project path="fribidi" name="ShiftMediaProject/fribidi"/>
+  <project path="game-music-emu" name="ShiftMediaProject/game-music-emu"/>
+  <project path="gmp" name="ShiftMediaProject/gmp"/>
+  <project path="gnutls" name="ShiftMediaProject/gnutls"/>
+  <project path="harfbuzz" name="ShiftMediaProject/harfbuzz"/>
+  <project path="lame" name="ShiftMediaProject/lame"/>
+  <project path="libaacs" name="ShiftMediaProject/libaacs"/>
+  <project path="libarchive" name="ShiftMediaProject/libarchive"/>
+  <project path="libass" name="ShiftMediaProject/libass"/>
+  <project path="libbdplus" name="ShiftMediaProject/libbdplus"/>
+  <project path="libbluray" name="ShiftMediaProject/libbluray"/>
+  <project path="libcdio" name="ShiftMediaProject/libcdio"/>
+  <project path="libcdio-paranoia" name="ShiftMediaProject/libcdio-paranoia"/>
+  <project path="libdvdcss" name="ShiftMediaProject/libdvdcss"/>
+  <project path="libdvdnav" name="ShiftMediaProject/libdvdnav"/>
+  <project path="libdvdread" name="ShiftMediaProject/libdvdread"/>
+  <project path="libgcrypt" name="ShiftMediaProject/libgcrypt"/>
+  <project path="libgpg-error" name="ShiftMediaProject/libgpg-error"/>
+  <project path="libiconv" name="ShiftMediaProject/libiconv"/>
+  <project path="libilbc" name="ShiftMediaProject/libilbc"/>
+  <project path="liblzma" name="ShiftMediaProject/liblzma"/>
+  <project path="libssh" name="ShiftMediaProject/libssh"/>
+  <project path="libvpx" name="ShiftMediaProject/libvpx"/>
+  <project path="libxml2" name="ShiftMediaProject/libxml2"/>
+  <project path="mfx_dispatch" name="ShiftMediaProject/mfx_dispatch"/>
+  <project path="modplug" name="ShiftMediaProject/modplug"/>
+  <project path="mpv" name="ShiftMediaProject/mpv"/>
+  <project path="nettle" name="ShiftMediaProject/nettle"/>
+  <project path="ogg" name="ShiftMediaProject/ogg"/>
+  <project path="openssl" name="ShiftMediaProject/openssl"/>
+  <project path="opus" name="ShiftMediaProject/opus"/>
+  <project path="PortAudio" name="ShiftMediaProject/PortAudio"/>
+  <project path="rtmpdump" name="ShiftMediaProject/rtmpdump"/>
+  <project path="SDL" name="ShiftMediaProject/SDL"/>
+  <project path="ShiftMediaProject.github.io" name="ShiftMediaProject/ShiftMediaProject.github.io"/>
+  <project path="soxr" name="ShiftMediaProject/soxr"/>
+  <project path="speex" name="ShiftMediaProject/speex"/>
+  <project path="theora" name="ShiftMediaProject/theora"/>
+  <project path="vorbis" name="ShiftMediaProject/vorbis"/>
+  <project path="VSNASM" name="ShiftMediaProject/VSNASM"/>
+  <project path="VSYASM" name="ShiftMediaProject/VSYASM"/>
+  <project path="x264" name="ShiftMediaProject/x264"/>
+  <project path="x265" name="ShiftMediaProject/x265"/>
+  <project path="xvid" name="ShiftMediaProject/xvid"/>
+  <project path="zlib" name="ShiftMediaProject/zlib"/>
+ </manifest>
