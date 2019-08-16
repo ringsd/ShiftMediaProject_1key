@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="origin"
+           fetch=".." />
+  <default revision="master"
+           remote="origin"
+           sync-j="4" />
+  <project path="https://github.com/ShiftMediaProject/bzip2" name="bzip2"/>
+  <project path="https://github.com/ShiftMediaProject/enca" name="enca"/>
+ </manifest>
