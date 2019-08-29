@@ -5,7 +5,7 @@
   <default revision="master"
            remote="origin"
            sync-j="4" />
-  <project path="bzip2 " name="ShiftMediaProject/bzip2 "/>
+  <project path="bzip2" name="ShiftMediaProject/bzip2"/>
   <project path="enca" name="ShiftMediaProject/enca"/>
   <project path="expat" name="ShiftMediaProject/expat"/>
   <project path="fdk-aac" name="ShiftMediaProject/fdk-aac"/>
